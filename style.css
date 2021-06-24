@@ -1,0 +1,10 @@
+body {
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(102, 151, 89);
+}
+
+#resultado {
+    font-size: large;
+    color: rgb(0, 255, 64);
+}
